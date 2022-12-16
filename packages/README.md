@@ -10,6 +10,7 @@ libraries, utilities, and similar.
 
 
 Traduzindo:
+
 É aqui onde suas próprias aplicações e bibliotecas gerenciadas centralmente estão, 
 cada um em uma pasta separada própria.
 
